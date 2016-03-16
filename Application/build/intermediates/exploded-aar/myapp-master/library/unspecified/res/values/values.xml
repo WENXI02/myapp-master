@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bluetooth_spp_padding">10dp</dimen>
+    <dimen name="bluetooth_spp_text_size">25sp</dimen>
+    <string name="Connected_to">Connected to </string>
+    <string name="Connection_lost">Connection lost </string>
+    <string name="Unable_to_connect">Unable to connect </string>
+    <string name="app_name">" Library"</string>
+</resources>

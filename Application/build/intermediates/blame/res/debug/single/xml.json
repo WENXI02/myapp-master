@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wenxi/android/myapp-master/Application/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/wenxi/android/myapp-master/Application/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/wenxi/android /AsymmetricFingerprintDialog-master/Application/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/wenxi/android /AsymmetricFingerprintDialog-master/Application/src/main/res/xml/preferences.xml"
+    }
+]
